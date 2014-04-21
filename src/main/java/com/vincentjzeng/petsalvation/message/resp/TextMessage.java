@@ -1,7 +1,7 @@
 package com.vincentjzeng.petsalvation.message.resp;
 
 public class TextMessage extends ResponseMessage {
-	 // »Ø¸´µÄÏûÏ¢ÄÚÈİ  
+	 // å›å¤çš„æ¶ˆæ¯å†…å®¹  
     private String Content;  
   
     public String getContent() {  

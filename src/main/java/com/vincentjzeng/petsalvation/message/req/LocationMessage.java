@@ -1,13 +1,13 @@
 package com.vincentjzeng.petsalvation.message.req;
 
 public class LocationMessage extends RequestMessage {
-	// 地理位置维度  
+	// 鍦扮悊浣嶇疆缁村害  
     private String Location_X;  
-    // 地理位置经度  
+    // 鍦扮悊浣嶇疆缁忓害  
     private String Location_Y;  
-    // 地图缩放大小  
+    // 鍦板浘缂╂斁澶у皬  
     private String Scale;  
-    // 地理位置信息  
+    // 鍦扮悊浣嶇疆淇℃伅  
     private String Label;  
   
     public String getLocation_X() {  

@@ -1,7 +1,7 @@
 package com.vincentjzeng.petsalvation.message.req;
 
 public class ImageMessage extends RequestMessage {
-    // Í¼Æ¬Á´½Ó  
+    // å›¾ç‰‡é“¾æŽ¥  
     private String PicUrl;  
   
     public String getPicUrl() {  

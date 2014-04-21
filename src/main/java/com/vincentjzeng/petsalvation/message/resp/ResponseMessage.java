@@ -1,15 +1,15 @@
 package com.vincentjzeng.petsalvation.message.resp;
 
 public class ResponseMessage {
-	// ½ÓÊÕ·½ÕÊºÅ£¨ÊÕµ½µÄOpenID£©  
+	// æ¥æ”¶æ–¹å¸å·ï¼ˆæ”¶åˆ°çš„OpenIDï¼‰  
     private String ToUserName;  
-    // ¿ª·¢ÕßÎ¢ĞÅºÅ  
+    // å¼€å‘è€…å¾®ä¿¡å·  
     private String FromUserName;  
-    // ÏûÏ¢´´½¨Ê±¼ä £¨ÕûĞÍ£©  
+    // æ¶ˆæ¯åˆ›å»ºæ—¶é—´ ï¼ˆæ•´å‹ï¼‰  
     private long CreateTime;  
-    // ÏûÏ¢ÀàĞÍ£¨text/music/news£©  
+    // æ¶ˆæ¯ç±»å‹ï¼ˆtext/music/newsï¼‰  
     private String MsgType;  
-    // Î»0x0001±»±êÖ¾Ê±£¬ĞÇ±ê¸ÕÊÕµ½µÄÏûÏ¢  
+    // ä½0x0001è¢«æ ‡å¿—æ—¶ï¼Œæ˜Ÿæ ‡åˆšæ”¶åˆ°çš„æ¶ˆæ¯  
     private int FuncFlag;  
   
     public String getToUserName() {  

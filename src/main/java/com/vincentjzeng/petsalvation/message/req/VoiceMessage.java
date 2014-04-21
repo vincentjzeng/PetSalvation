@@ -1,9 +1,9 @@
 package com.vincentjzeng.petsalvation.message.req;
 
 public class VoiceMessage extends RequestMessage {
-	// Ã½ÌåID  
+	// åª’ä½“ID  
     private String MediaId;  
-    // ÓïÒô¸ñÊ½  
+    // è¯­éŸ³æ ¼å¼  
     private String Format;  
   
     public String getMediaId() {  

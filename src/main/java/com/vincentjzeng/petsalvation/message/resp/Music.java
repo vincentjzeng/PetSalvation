@@ -1,13 +1,13 @@
 package com.vincentjzeng.petsalvation.message.resp;
 
 public class Music {
-	// ÒôÀÖÃû³Æ  
+	// éŸ³ä¹åç§°  
     private String Title;  
-    // ÒôÀÖÃèÊö  
+    // éŸ³ä¹æè¿°  
     private String Description;  
-    // ÒôÀÖÁ´½Ó  
+    // éŸ³ä¹é“¾æ¥  
     private String MusicUrl;  
-    // ¸ßÖÊÁ¿ÒôÀÖÁ´½Ó£¬WIFI»·¾³ÓÅÏÈÊ¹ÓÃ¸ÃÁ´½Ó²¥·ÅÒôÀÖ  
+    // é«˜è´¨é‡éŸ³ä¹é“¾æ¥ï¼ŒWIFIç¯å¢ƒä¼˜å…ˆä½¿ç”¨è¯¥é“¾æ¥æ’­æ”¾éŸ³ä¹  
     private String HQMusicUrl;  
   
     public String getTitle() {  

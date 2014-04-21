@@ -1,7 +1,7 @@
 package com.vincentjzeng.petsalvation.message.resp;
 
 public class MusicMessage extends ResponseMessage {
-	// ÒôÀÖ  
+	// éŸ³ä¹  
     private Music Music;  
   
     public Music getMusic() {  
