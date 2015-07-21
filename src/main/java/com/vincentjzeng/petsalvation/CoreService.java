@@ -9,6 +9,7 @@ import com.vincentjzeng.petsalvation.message.resp.TextMessage;
 import com.vincentjzeng.petsalvation.util.MessageUtil;
 
 public class CoreService {
+	
 	/** 
      * 处理微信发来的请求 
      *  
